@@ -1,1 +1,1 @@
-git log -1 --pretty=format:"%h %s"
+git log -1 --pretty=format:/%h %s/git pull origin master
